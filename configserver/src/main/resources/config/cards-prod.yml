@@ -1,0 +1,11 @@
+build:
+  version: "1.3"
+
+accounts:
+  message: "Welcome to EazyBank cards related PROD APIs "
+  contactDetails:
+    name: "John Doe - PROD"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

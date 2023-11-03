@@ -1,0 +1,27 @@
+dependencies:
+- name: mogydanbank-common
+  repository: file://../../mogydanbank-common
+  version: 0.1.0
+- name: configserver
+  repository: file://../../mogydanbank-services/configserver
+  version: 0.1.0
+- name: eurekaserver
+  repository: file://../../mogydanbank-services/eurekaserver
+  version: 0.1.0
+- name: accounts
+  repository: file://../../mogydanbank-services/accounts
+  version: 0.1.0
+- name: cards
+  repository: file://../../mogydanbank-services/cards
+  version: 0.1.0
+- name: loans
+  repository: file://../../mogydanbank-services/loans
+  version: 0.1.0
+- name: gatewayserver
+  repository: file://../../mogydanbank-services/gatewayserver
+  version: 0.1.0
+- name: message
+  repository: file://../../mogydanbank-services/message
+  version: 0.1.0
+digest: sha256:69d53467aaa2637ddbab61e76133ba24e3b1bde38a6dee22dfda9226eb63911c
+generated: "2023-11-02T18:06:17.90841+02:00"

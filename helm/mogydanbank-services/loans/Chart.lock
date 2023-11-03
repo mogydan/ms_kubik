@@ -1,0 +1,6 @@
+dependencies:
+- name: mogydanbank-common
+  repository: file://../../mogydanbank-common
+  version: 0.1.0
+digest: sha256:4272b9f2b0a4b4ae885a335d735b7a2000af209d02fb31be103b025bf96f42d0
+generated: "2023-11-02T17:51:23.287105+02:00"
